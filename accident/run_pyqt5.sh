@@ -1,0 +1,1 @@
+/Library/Frameworks/Python.framework/Versions/3.9/bin/pyrcc5 -o resources.py resources.qrc
